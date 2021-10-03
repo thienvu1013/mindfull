@@ -1,0 +1,25 @@
+{
+  "name": "mindfull",
+  "version": "1.0.0",
+  "description": "This is a project for a productivity app called Mindfull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thienvu1013/mindfull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thienvu1013/mindfull/issues"
+  },
+  "homepage": "https://github.com/thienvu1013/mindfull#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
